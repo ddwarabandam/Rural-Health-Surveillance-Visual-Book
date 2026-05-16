@@ -239,18 +239,6 @@ The script removes selected direct identifiers during data loading, including:
 
 However, users should still follow all applicable privacy, security, and data governance rules before uploading data to GitHub or sharing the app.
 
-### Important Public Repository Warning
-
-Do **not** upload real patient-level surveillance data to a public GitHub repository.
-
-Recommended GitHub sharing approach:
-
-- Upload the script.
-- Upload this instruction manual.
-- Upload only synthetic, fake, or fully de-identified sample data.
-- Do not upload real NBS/NEDSS exports unless explicitly approved by the appropriate agency data governance process.
-- Review small cell counts and potentially identifiable combinations before sharing screenshots or outputs.
-
 ---
 
 ## 8. How to Run the App
