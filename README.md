@@ -822,41 +822,14 @@ Update the `categorize_disease()` function to assign the condition to the correc
 
 ---
 
-## 22. Recommended GitHub Repository Notes
 
-For GitHub posting, recommended files include:
-
-```text
-app.R
-README.md
-data/sample_lab_surveillance_data.csv
-data/sample_investigations_data.csv
-```
-
-The sample data should be fake or synthetic.
-
-Suggested GitHub README sections:
-
-- Project overview
-- Intended users
-- Required packages
-- Folder structure
-- Input data format
-- How to run the app
-- Feature overview
-- Privacy and data use notice
-- Troubleshooting
-- Contact or maintainer information
-
----
-
-## 23. Suggested Disclaimer
+## 22. Suggested Disclaimer
 
 This tool is intended for public health surveillance support, data exploration, and situational awareness. It does not replace official case classification, epidemiologic review, or agency-approved reporting workflows. Users are responsible for ensuring that all data use, sharing, and publication follow applicable privacy, security, and data governance requirements.
 
 ---
 
-## 24. Current Version Notes
+## 23. Current Version Notes
 
 This instruction manual is based on the current working script version shared for the Rural Health Surveillance Visual Book. Future versions may add more advanced walkthroughs, screenshots, deployment instructions, example datasets, automated reports, or additional modeling features.
 
